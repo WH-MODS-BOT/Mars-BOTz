@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+Import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Sticker By'
-global.author = 'Kepinganteng'
+global.author = 'Kepinganteing'
 
 global.wm = 'WhatsApp Bot Simple By Kevin afsar'
 global.eror = 'Maaf Server Sedang Eror!'
